@@ -1,0 +1,23 @@
+*{
+    padding : 0px;
+    margin: 0px;
+}
+
+.cans{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+
+button{
+    
+    font-size: large;
+    padding: 10px;
+    margin: 5px;
+}
